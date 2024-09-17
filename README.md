@@ -23,5 +23,4 @@ Características Clave
 Cómo Contribuir
 Si tienes sugerencias para mejorar nuestro sitio web o deseas colaborar con BJ Tech, no dudes en ponerte en contacto con nosotros. Estamos abiertos a ideas y colaboraciones que puedan mejorar la experiencia de nuestros clientes.
 Contacto
-Para más información o consultas, puedes contactar con nosotros a través de nuestro sitio oficial https://editor.wix.com/html/editor/web/renderer/external_preview/document/8dbac17d-feda-4356-a274-0536e48c74b6?metaSiteId=826835d2-52f9-48ae-a777-01fc3f08b0e1&dsOrigin=externalPreview&configName=externalPreview
-
+Para más información o consultas, puedes contactar con nosotros a través de nuestro sitio oficial (https://mbjesica611.wixsite.com/bjtech)
